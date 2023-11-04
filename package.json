@@ -1,6 +1,6 @@
 {
   "name": "@mohibul-refat/random-password",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate strong, random passwords with the 'Random Password Generator' npm package. Easily customize criteria, choose complexity levels, and enhance security. Simplify password creation for your projects with a user-friendly API.",
   "main": "index.js",
   "scripts": {
